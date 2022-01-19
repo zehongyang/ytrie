@@ -1,5 +1,5 @@
 # ytrie
-trie;可组合词前缀树
+####trie;可组合词前缀树
 ###创建一个简单前缀树并使用
 ```
 trie := NewSimpleTrie()
